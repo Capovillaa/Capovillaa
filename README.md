@@ -28,6 +28,6 @@
 ##
 
 <div style="display: flex; justify-content: space-around;">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=Capovillaa&show_icons=true&theme=gruvbox&rank_icon=github" />
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capovillaa&layout=pie&theme=gruvbox" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Capovillaa&show_icons=true&theme=gruvbox&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Capovillaa&layout=donut&theme=gruvbox" />
 </div>
